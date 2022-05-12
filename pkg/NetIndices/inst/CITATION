@@ -8,7 +8,6 @@ citEntry(entry="Article",
   volume =	"220",
   pages =	"370-382",
   year = 	"2009",
-  doi = "http://dx.doi.org/10.1016/j.ecolmodel.2008.10.012",
   keywords =	"Food web, Inverse models, Network indices, Minimum norm solution,
               Monte Carlo average solution.",
   textVersion =  paste("Kones, J.K., Soetaert, K., van Oevelen, D. and J.Owino (2009).

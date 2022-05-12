@@ -1,6 +1,6 @@
 Package: NetIndices
 Version: 1.4.4.1
-Title: Estimating network indices, including trophic structure of foodwebs in R
+Title: Estimating Network Indices, Including Trophic Structure of Foodwebs in R
 Author: Karline Soetaert <karline.soetaert@nioz.nl>,
   Julius Kipyegon Kones <jkones@uonbi.ac.ke>,
   Dick van Oevelen <dick.vanoevelen@nioz.nl>
