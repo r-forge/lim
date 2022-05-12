@@ -58,7 +58,8 @@ van Oevelen D, Van den Meersche K, Meysman FJR Soetaert K, Middelburg JJ, Vezina
   2009. Quantifying Food Web Flows Using Linear Inverse Models.  
   Ecosystems 13: 32-45
   DOI: 10.1007/s10021-009-9297-6.
-\url{http://www.springerlink.com/content/4q6h4011511731m5/fulltext.pdf}
+
+  http://www.springerlink.com/content/4q6h4011511731m5/fulltext.pdf
 
 (please use the above citation when using the software)
 
@@ -76,14 +77,13 @@ The cold-water coral community as hotspot of carbon cycling on
 continental margins: A food web analysis from Rockall Bank         
 (northeast Atlantic). Limnology and Oceangraphy 54:1829-1844.      
 
-\url{http://www.aslo.org/lo/toc/vol_54/issue_6/1829.pdf}
+http://www.aslo.org/lo/toc/vol_54/issue_6/1829.pdf
 
 
 A flux balance analysis application:
 
 Karline Soetaert. Escherichia coli Core Metabolism Model in LIM. 
 LIM package vignette (see also below).
-
 }
 \seealso{
  \code{\link{Read}}, \code{\link{Setup}} for reading files and creating the model

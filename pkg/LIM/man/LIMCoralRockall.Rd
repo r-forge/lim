@@ -14,7 +14,6 @@
   The linear inverse model LIMCoralRockall is generated from the file
   \file{CWCRockall.input} which can be found in
   subdirectory \code{/examples/FoodWeb} of the package directory
-
 }
 
 \usage{
@@ -69,7 +68,7 @@ par(mfrow = pm)
   continental margins: A food web analysis from Rockall Bank
   (northeast Atlantic). Limnology and Oceangraphy 54 : 1829 -- 1844.
 
-  \url{http://www.aslo.org/lo/toc/vol_54/issue_6/1829.pdf}
+  http://www.aslo.org/lo/toc/vol_54/issue_6/1829.pdf
 }
 
 \seealso{

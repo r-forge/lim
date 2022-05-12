@@ -73,7 +73,7 @@ Read <-  function (file, verbose = FALSE, checkLinear = TRUE, remtabs = TRUE) {
   Replace <- function(Strings, replacement, pos, All = TRUE) {
 
     for (i in 1:length(Strings)) {
-      if (class(pos) == "character") {
+      if (inherits(pos, "character")) {
         i1 <- regexpr(pos[1], Strings[i], fixed = TRUE)[1]
         i2 <- regexpr(pos[2], Strings[i], fixed = TRUE)[1]
       }
